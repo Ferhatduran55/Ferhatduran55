@@ -1,9 +1,9 @@
 ### Hi, I'm [Ferhat Duran](https://github.com/Ferhatduran55) 👋
 
-![](https://github-readme-stats.vercel.app/api?username=Ferhatduran55&theme=nightowl&show_icons=true&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=Ferhatduran55&theme=nightowl&show_icons=false&hide_border=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ferhatduran55&theme=nightowl&hide_border=true)<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ferhatduran55&layout=compact&theme=nightowl&langs_count=6&size_weight=1&count_weight=0&hide_border=true)
-<!--![](https://github-readme-stats.vercel.app/api/wakatime?username=Ferhatduran55&compact=layout&theme=nightowl&hide_border=true)<br>-->
+![](https://github-readme-stats.vercel.app/api/wakatime?username=Ferhatduran55&compact=layout&theme=nightowl&hide_border=true)<br>
 ## About Me
 
 I'm a software developer with experience in various technologies. I am knowledgeable in PHP, JavaScript, Node.js, CSS and HTML. I constantly strive to improve myself and stay updated with new technologies in the software development process.

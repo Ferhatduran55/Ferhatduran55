@@ -1,4 +1,4 @@
-### Hi, I'm [Ferhat Duran](https://github.com/Ferhatduran55) 👋 [![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-<RENK>.svg)](https://github.com/sponsors/Ferhatduran55)
+### Hi, I'm [Ferhat Duran](https://github.com/Ferhatduran55) 👋 [![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-<RENK>.svg)](https://github.com/sponsors/Ferhatduran55) [![wakatime](https://wakatime.com/badge/user/731bbc80-7c26-4f1f-a715-60ab0b761213.svg)](https://wakatime.com/@731bbc80-7c26-4f1f-a715-60ab0b761213)
 
 ![](https://github-readme-stats.vercel.app/api?username=Ferhatduran55&theme=nightowl&show_icons=true&hide_border=true&card_width=150)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ferhatduran55&theme=nightowl&hide_border=true&card_width=300)<br>

@@ -3,7 +3,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=Ferhatduran55&theme=nightowl&show_icons=true&hide_border=true&card_width=150)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ferhatduran55&theme=nightowl&hide_border=true&card_width=300)<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ferhatduran55&layout=donut&theme=nightowl&langs_count=6&size_weight=1&count_weight=0&hide_border=true&card_width=250)
-![](https://github-readme-stats.vercel.app/api/wakatime?username=Ferhatduran55&layout=compact&theme=nightowl&hide_border=true)<br>
+<!--![](https://github-readme-stats.vercel.app/api/wakatime?username=Ferhatduran55&layout=compact&theme=nightowl&hide_border=true)<br>-->
 ## About Me
 
 I'm a software developer with experience in various technologies. I am knowledgeable in PHP, JavaScript, Node.js, CSS and HTML. I constantly strive to improve myself and stay updated with new technologies in the software development process.
@@ -27,7 +27,7 @@ Here are some of my skills:
 ![jQuery](https://img.shields.io/badge/jQuery-%2B3yrs-yellow?style=for-the-badge&logo=jquery&logoColor=white&labelColor=0769AD&link=https://portfolio.ferhatduran.com.tr/skill/jQuery&link=https://portfolio.ferhatduran.com.tr/skill/jQuery)
 ![Laravel](https://img.shields.io/badge/Laravel-%2B0yrs-black?style=for-the-badge&logo=laravel&logoColor=white&labelColor=FF2D20&link=https://portfolio.ferhatduran.com.tr/skill/Laravel&link=https://portfolio.ferhatduran.com.tr/skill/Laravel)
 ![Express](https://img.shields.io/badge/Express-%2B3yrs-yellow?style=for-the-badge&logo=express&logoColor=white&labelColor=000000&link=https://portfolio.ferhatduran.com.tr/skill/Express&link=https://portfolio.ferhatduran.com.tr/skill/Express)
-![Docker](https://img.shields.io/badge/Docker-%2B1yrs-blue?style=for-the-badge&logo=docker&logoColor=white&labelColor=2496ED&link=https://portfolio.ferhatduran.com.tr/skill/Docker&link=https://portfolio.ferhatduran.com.tr/skill/Docker)-->
+![Docker](https://img.shields.io/badge/Docker-%2B1yrs-blue?style=for-the-badge&logo=docker&logoColor=white&labelColor=2496ED&link=https://portfolio.ferhatduran.com.tr/skill/Docker&link=https://portfolio.ferhatduran.com.tr/skill/Docker)
 
 ![PHP](https://img.shields.io/badge/PHP-%2B2yrs-gray?style=for-the-badge&logo=php&logoColor=white&labelColor=777BB4&link=https://portfolio.ferhatduran.com.tr/skill/PHP&link=https://portfolio.ferhatduran.com.tr/skill/PHP)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%2B4yrs-gray?style=for-the-badge&logo=javascript&logoColor=white&labelColor=F7DF1E&link=https://portfolio.ferhatduran.com.tr/skill/JavaScript&link=https://portfolio.ferhatduran.com.tr/skill/JavaScript)
@@ -44,12 +44,9 @@ Here are some of my skills:
 ![jQuery](https://img.shields.io/badge/jQuery-%2B3yrs-gray?style=for-the-badge&logo=jquery&logoColor=white&labelColor=0769AD&link=https://portfolio.ferhatduran.com.tr/skill/jQuery&link=https://portfolio.ferhatduran.com.tr/skill/jQuery)
 ![Laravel](https://img.shields.io/badge/Laravel-%2B0yrs-gray?style=for-the-badge&logo=laravel&logoColor=white&labelColor=FF2D20&link=https://portfolio.ferhatduran.com.tr/skill/Laravel&link=https://portfolio.ferhatduran.com.tr/skill/Laravel)
 ![Express](https://img.shields.io/badge/Express-%2B3yrs-gray?style=for-the-badge&logo=express&logoColor=white&labelColor=000000&link=https://portfolio.ferhatduran.com.tr/skill/Express&link=https://portfolio.ferhatduran.com.tr/skill/Express)
-![Docker](https://img.shields.io/badge/Docker-%2B1yrs-gray?style=for-the-badge&logo=docker&logoColor=white&labelColor=2496ED&link=https://portfolio.ferhatduran.com.tr/skill/Docker&link=https://portfolio.ferhatduran.com.tr/skill/Docker)
+![Docker](https://img.shields.io/badge/Docker-%2B1yrs-gray?style=for-the-badge&logo=docker&logoColor=white&labelColor=2496ED&link=https://portfolio.ferhatduran.com.tr/skill/Docker&link=https://portfolio.ferhatduran.com.tr/skill/Docker)-->
 
 
 ## Social
 
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCvV7AVlKqeGYILMHxOvNoEg?style=social)
-![GitHub followers](https://img.shields.io/github/followers/Ferhatduran55?style=social)
-![Discord](https://img.shields.io/discord/1095484266177118240?label=Chat&logo=discord&style=social)
 ![CodeWars](https://www.codewars.com/users/Ferhat5534/badges/micro)

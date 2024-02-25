@@ -1,17 +1,20 @@
-### Hi, I'm [Ferhat Duran](https://github.com/Ferhatduran55) 👋 [![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-<RENK>.svg)](https://github.com/sponsors/Ferhatduran55) [![wakatime](https://wakatime.com/badge/user/731bbc80-7c26-4f1f-a715-60ab0b761213.svg)](https://wakatime.com/@731bbc80-7c26-4f1f-a715-60ab0b761213)
+### Hi, I'm [Ferhat Duran](https://github.com/Ferhatduran55) 👋 [![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-<RENK>.svg)](https://github.com/sponsors/Ferhatduran55) [![wakatime](https://wakatime.com/badge/user/731bbc80-7c26-4f1f-a715-60ab0b761213.svg)](https://wakatime.com/@731bbc80-7c26-4f1f-a715-60ab0b761213) ![](https://komarev.com/ghpvc/?username=Ferhatduran55&color=blueviolet)
 
-![](https://github-readme-stats.vercel.app/api?username=Ferhatduran55&theme=nightowl&show_icons=true&hide_border=true&card_width=150)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ferhatduran55&theme=nightowl&hide_border=true&card_width=300)<br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ferhatduran55&layout=donut&theme=nightowl&langs_count=6&size_weight=1&count_weight=0&hide_border=true&card_width=250)
+<div align="center">  
+  <img height="190px" align="center" style="float:center" src="https://github-readme-stats.vercel.app/api?username=Ferhatduran55&show_icons=true&theme=nightowl&include_all_commits=true">
+  <img height="190px" align="center" style="float:center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ferhatduran55&show_icons=true&theme=nightowl&layout=compact">
+</div>
+<!--![](https://github-readme-streak-stats.herokuapp.com/?user=Ferhatduran55&theme=nightowl&hide_border=true&card_width=300)<br>-->
 <!--![](https://github-readme-stats.vercel.app/api/wakatime?username=Ferhatduran55&layout=compact&theme=nightowl&hide_border=true)<br>-->
+
 ## About Me
 
 I'm a software developer with experience in various technologies. I am knowledgeable in PHP, JavaScript, Node.js, CSS and HTML. I constantly strive to improve myself and stay updated with new technologies in the software development process.
 
-## Skills
+<!--## Skills
 
 Here are some of my skills:
-
+-->
 <!--![PHP](https://img.shields.io/badge/PHP-%2B2yrs-green?style=for-the-badge&logo=php&logoColor=white&labelColor=777BB4&link=https://portfolio.ferhatduran.com.tr/skill/PHP&link=https://portfolio.ferhatduran.com.tr/skill/PHP)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%2B4yrs-orange?style=for-the-badge&logo=javascript&logoColor=white&labelColor=F7DF1E&link=https://portfolio.ferhatduran.com.tr/skill/JavaScript&link=https://portfolio.ferhatduran.com.tr/skill/JavaScript)
 ![Node.js](https://img.shields.io/badge/Node.js-%2B3yrs-yellow?style=for-the-badge&logo=node.js&logoColor=white&labelColor=339933&link=https://portfolio.ferhatduran.com.tr/skill/Node.js&link=https://portfolio.ferhatduran.com.tr/skill/Node.js)

@@ -1,8 +1,9 @@
 ### Hi, I'm [Ferhat Duran](https://github.com/Ferhatduran55) 👋 [![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-<RENK>.svg)](https://github.com/sponsors/Ferhatduran55) [![wakatime](https://wakatime.com/badge/user/731bbc80-7c26-4f1f-a715-60ab0b761213.svg)](https://wakatime.com/@731bbc80-7c26-4f1f-a715-60ab0b761213) ![](https://komarev.com/ghpvc/?username=Ferhatduran55&color=blueviolet)
 
-<div align="center">  
-  <img height="190px" align="center" style="float:center" src="https://github-readme-stats.vercel.app/api?username=Ferhatduran55&show_icons=true&theme=nightowl&include_all_commits=true">
-  <img height="190px" align="center" style="float:center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ferhatduran55&show_icons=true&theme=nightowl&layout=compact">
+<div align="center" style="display: flex;flex-wrap: wrap;justify-content: center;gap: 5px;align-items: center;">  
+  <img height="190px" src="https://github-readme-stats.vercel.app/api?username=Ferhatduran55&show_icons=true&theme=nightowl&include_all_commits=true">
+  <img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ferhatduran55&show_icons=true&theme=nightowl&layout=compact">
+  <img height="190px" src="https://github-readme-stats.vercel.app/api/wakatime?username=ferhatduran&layout=compact&theme=nightowl&langs_count=6">
 </div>
 <!--![](https://github-readme-streak-stats.herokuapp.com/?user=Ferhatduran55&theme=nightowl&hide_border=true&card_width=300)<br>-->
 <!--![](https://github-readme-stats.vercel.app/api/wakatime?username=Ferhatduran55&layout=compact&theme=nightowl&hide_border=true)<br>-->
@@ -50,6 +51,7 @@ Here are some of my skills:
 ![Docker](https://img.shields.io/badge/Docker-%2B1yrs-gray?style=for-the-badge&logo=docker&logoColor=white&labelColor=2496ED&link=https://portfolio.ferhatduran.com.tr/skill/Docker&link=https://portfolio.ferhatduran.com.tr/skill/Docker)-->
 
 
-## Social
+<!--## Social
 
 ![CodeWars](https://www.codewars.com/users/Ferhat5534/badges/micro)
+-->
